@@ -1,0 +1,745 @@
+canonical_identifier: bkk:krp/KR5g0115/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0115/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 葛仙翁肘後備急方
+  date: '2015-08-29 02:54:22.267498'
+  source:
+    repository: kanripo
+    path: KR5g0115
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0115_000-CK-KZ-jye.yaml, hash: 'sha256:b2eec970f96279f08cafd350bef470fe3d0dc0ccbfd7bdb7633833750006b04e'}
+  - {seq: 1, filename: KR5g0115_001-CK-KZ-jye.yaml, hash: 'sha256:dbb75a4ed7cdc9eba8bbb20925f2bb8f88b01a3d79dc3c67e7bb5642e6b3240f'}
+  - {seq: 2, filename: KR5g0115_002-CK-KZ-jye.yaml, hash: 'sha256:a325d88f47306d7356bc7bfd6629c7420359c1221895203d7943c5cacac6369b'}
+  - {seq: 3, filename: KR5g0115_003-CK-KZ-jye.yaml, hash: 'sha256:beb69ae2e9718f286de02247609b9a80f3bd83746f1d500fca6d83dc5bb427af'}
+  - {seq: 4, filename: KR5g0115_004-CK-KZ-jye.yaml, hash: 'sha256:fa95fb770455212e9327458869f301fd57098787e558ba3e763f484d2859620d'}
+  - {seq: 5, filename: KR5g0115_005-CK-KZ-jye.yaml, hash: 'sha256:85f0738a39ef266e02dd797f99d3d69aac684488cf9bdfea1542dbba5e513058'}
+  - {seq: 6, filename: KR5g0115_006-CK-KZ-jye.yaml, hash: 'sha256:ba4a13cbe5b4ec2d82183c58f138d5b0b448ceff6dbb54162b20d2b526616c45'}
+  - {seq: 7, filename: KR5g0115_007-CK-KZ-jye.yaml, hash: 'sha256:1406d34a2c915c8b8831499903876edbd6c73f8a8497c62428102983e7b39f96'}
+  - {seq: 8, filename: KR5g0115_008-CK-KZ-jye.yaml, hash: 'sha256:1f1891a59b3ee8d3088d78b892f0b6e1883f5c21ddf6e7c9c709899a496edf40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0115_000-CK-KZ-jye.markers.yaml, hash: 'sha256:2b762e97d0ef1c7b07e35945a4becf3d194782434965715f9913724b00dd5c22'}
+  - {seq: 1, role: markers, filename: assets/KR5g0115_001-CK-KZ-jye.markers.yaml, hash: 'sha256:44b820103aa792dfaa57b89a74d088caecb30bd2682424a158e393040c53510e'}
+  - {seq: 2, role: markers, filename: assets/KR5g0115_002-CK-KZ-jye.markers.yaml, hash: 'sha256:a7713b6087286e219e395de8e3867a8db3e1ee8b97cb4751fac6cdf04d144655'}
+  - {seq: 3, role: markers, filename: assets/KR5g0115_003-CK-KZ-jye.markers.yaml, hash: 'sha256:d6e746bb7f046d06b9487dcf69468a24eb692e1da0d92482a1b0d684c5b96b02'}
+  - {seq: 4, role: markers, filename: assets/KR5g0115_004-CK-KZ-jye.markers.yaml, hash: 'sha256:40bf6122bd036c1d44022c3c5b69bad6ece719cfd9c75515686283d6348561e5'}
+  - {seq: 5, role: markers, filename: assets/KR5g0115_005-CK-KZ-jye.markers.yaml, hash: 'sha256:eab32f0fa26608d7e07e709edef80dfbc13f25e2249f1e5591d00b5600ee920c'}
+  - {seq: 6, role: markers, filename: assets/KR5g0115_006-CK-KZ-jye.markers.yaml, hash: 'sha256:f5f2077f988e78fca688d0908b637365785fd5aa39fb66616599bcbff56bf196'}
+  - {seq: 7, role: markers, filename: assets/KR5g0115_007-CK-KZ-jye.markers.yaml, hash: 'sha256:bd0627780b58e1b563ad57a186d5deb27c7275c67aee9ae1ecb3228f93c6b04f'}
+  - {seq: 8, role: markers, filename: assets/KR5g0115_008-CK-KZ-jye.markers.yaml, hash: 'sha256:9c8ce608874ff51ab8e06f0f75a37259f37f0c8926884b70688f2da2cf0959e5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0115_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 31
+    - 228
+  label: 鹿鳴山續古序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5g0115_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 228
+    - 1407
+  label: 附廣肘後方序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h1
+    span:
+    - body
+    - 0
+    - 1094
+  label: 救卒中惡死方第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 1094
+    - 1497
+  label: 救卒死尸蹷方第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 1497
+    - 2238
+  label: 救卒客忤死方第三¶<md:KR5g0115_HFL_001-007a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 2238
+    - 2627
+  label: 治卒得鬼擊方第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 2627
+    - 3250
+  label: 治卒魘寐不寤方第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 3250
+    - 4185
+  label: 治卒中五尸方第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 4185
+    - 4782
+  label: 治尸注鬼注方第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 4782
+    - 6502
+  label: 治卒心痛方第八¶<md:KR5g0115_HFL_001-019b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 6502
+    - 7224
+  label: 治卒腹痛方第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h10
+    span:
+    - body
+    - 7224
+    - 7637
+  label: 治心腹俱痛方第十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0115_CK-KZ-jye_001-h11
+    span:
+    - body
+    - 7637
+    - 8155
+  label: 治卒心腹煩滿方第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0115_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 2353
+  label: 治卒霍亂諸急方第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0115_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 2353
+    - 7430
+  label: 治傷寒時氣瘟病方第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0115_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 7430
+    - 8493
+  label: 治時氣病起諸復勞方第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0115_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 8493
+    - 9494
+  label: 治瘴氣疫癘溫毒諸方第十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 1600
+  label: 治寒熱諸瘧方第十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 1600
+    - 2509
+  label: 治卒發癲狂病方第十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 2509
+    - 3283
+  label: 治卒得驚邪恍惚方第十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 3283
+    - 6911
+  label: 治中風諸急方第十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 6911
+    - 7421
+  label: 治卒風瘖不得語方第二十¶<md:KR5g0115_HFL_003-027b>
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 7421
+    - 9061
+  label: 治風毒脚弱痺滿上氣方第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 9061
+    - 9675
+  label: 治服散卒發動困篤方第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 9675
+    - 13005
+  label: 治卒上氣咳嗽方第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0115_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 13005
+    - 13851
+  label: 治卒身面腫滿方第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 1699
+  label: 治卒大腹水病方第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 1699
+    - 2947
+  label: 治卒心腹癥堅方第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 2947
+    - 3760
+  label: 治心腹寒冷食飲積聚結癖方第二¶十七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 3760
+    - 5231
+  label: 治胸膈上痰癊諸方第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h5
+    span:
+    - body
+    - 5231
+    - 5540
+  label: 治卒患胸渾痛方第二十九¶<md:KR5g0115_HFL_004-021a>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h6
+    span:
+    - body
+    - 5540
+    - 7103
+  label: 治卒胃反嘔啘方第三十
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h7
+    span:
+    - body
+    - 7103
+    - 8322
+  label: 治卒發黃疸諸黃病第三十一¶<md:KR5g0115_HFL_004-029a>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h8
+    span:
+    - body
+    - 8322
+    - 9656
+  label: 治卒患腰脇痛諸方第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h9
+    span:
+    - body
+    - 9656
+    - 11119
+  label: 治虛損羸瘦不堪勞動方第三十三¶<md:KR5g0115_HFL_004-039b>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h10
+    span:
+    - body
+    - 11119
+    - 11967
+  label: 治脾胃虛弱不能飲食方第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0115_CK-KZ-jye_004-h11
+    span:
+    - body
+    - 11967
+    - 12685
+  label: 治卒絕粮失食饑憊欲死方第三十¶<md:KR5g0115_HFL_004-048b>¶五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0115_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 5160
+  label: 治癰疽妬乳諸毒腫方第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0115_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 5160
+    - 7575
+  label: 治腸癰肺癰方第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0115_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 7575
+    - 8482
+  label: 治卒得癩皮毛變黑方第四十¶<md:KR5g0115_HFL_005-033a>
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0115_CK-KZ-jye_005-h5
+    span:
+    - body
+    - 8482
+    - 9081
+  label: 治卒得蟲鼠諸瘻方第四十一(後有瘰癧)
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0115_CK-KZ-jye_005-h6
+    span:
+    - body
+    - 9081
+    - 10359
+  label: 治卒陰腫痛頽卵方第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 1598
+  label: 治目赤痛暗昧㓨諸病方第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 1598
+    - 2505
+  label: 治卒耳聾諸病方第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 2505
+    - 3001
+  label: 治耳爲百蟲雜物所人方第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 3001
+    - 3236
+  label: 治卒食噎不下方第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h5
+    span:
+    - body
+    - 3236
+    - 3636
+  label: 治卒諸雜物鯁不下方第五十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h6
+    span:
+    - body
+    - 3636
+    - 4062
+  label: 治卒誤吞諸物及患方第五十一¶<md:KR5g0115_HFL_006-017a>
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0115_CK-KZ-jye_006-h7
+    span:
+    - body
+    - 4062
+    - 8026
+  label: 治面皰髮禿身臭心惛鄙醜方第五¶十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 293
+  label: 治爲熊虎爪牙所傷毒痛方第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 293
+    - 832
+  label: 治卒爲猘犬凡所咬毒方第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 832
+    - 1361
+  label: 治卒毒及狐溺棘所毒方第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 1361
+    - 1898
+  label: 治卒青蛙蝮虺眾蛇所螫方第五十¶六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h5
+    span:
+    - body
+    - 1898
+    - 2215
+  label: 治蛇瘡敗蛇骨刺人入口繞身諸方¶第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h6
+    span:
+    - body
+    - 2215
+    - 2419
+  label: 治卒入山草禁辟衆蛇藥術方第五¶十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h7
+    span:
+    - body
+    - 2419
+    - 3431
+  label: 治卒蜈蚣蜘蛛所螫方第五十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h8
+    span:
+    - body
+    - 3431
+    - 3464
+  label: 治卒蠆螫方第六十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h9
+    span:
+    - body
+    - 3464
+    - 3655
+  label: 治卒蜂所螫方第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h10
+    span:
+    - body
+    - 3655
+    - 3888
+  label: 治卒蝎所螫方第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h11
+    span:
+    - body
+    - 3888
+    - 5139
+  label: 治中蠱毒方第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h12
+    span:
+    - body
+    - 5139
+    - 5782
+  label: 治卒中溪毒方第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h13
+    span:
+    - body
+    - 5782
+    - 6297
+  label: 治卒中射工水弩毒方第六十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h14
+    span:
+    - body
+    - 6297
+    - 6686
+  label: 治卒中沙虱毒方第六十六¶<md:KR5g0115_HFL_007-028a>
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h15
+    span:
+    - body
+    - 6686
+    - 6936
+  label: 治卒服藥過劑煩悶方第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h16
+    span:
+    - body
+    - 6936
+    - 8379
+  label: 治卒中諸藥毒救解方第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h17
+    span:
+    - body
+    - 8379
+    - 9419
+  label: 治食中諸毒方第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h18
+    span:
+    - body
+    - 9419
+    - 9748
+  label: 治防避飲食諸毒方第七十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0115_CK-KZ-jye_007-h19
+    span:
+    - body
+    - 9748
+    - 10185
+  label: 治卒飲酒大醉諸病方第七十一¶<md:KR5g0115_HFL_007-042b>
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5g0115_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 3446
+  label: 治百病備急丸散膏諸要方第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5g0115_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 3446
+    - 4155
+  label: 治牛馬六畜水穀疫癘諸病方第七十三
+  type: section
+  level: 2
+hash: sha256:9e3007e23121cd43f5818b327bf24317782deb328eccbc284e659c9c8e0b8cc7

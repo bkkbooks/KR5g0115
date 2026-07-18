@@ -5060,6 +5060,7 @@ markers:
   - {type: indent, offset: 8520, content: 　　　, id: KR5g0115_krp_005-bkkind473}
   - {type: variant, offset: 8520, length: 16, content: 治卒得蟲鼠諸瘻方第四十一後有瘰癧, CK-KZ-jye: ''}
   - {type: punctuation, offset: 8532, content: (, id: KR5g0115_krp_005-bkkpn1}
+  - {type: voice, offset: 8532, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8534, content: /, id: KR5g0115_krp_005-bkkpn2}
   - {type: punctuation, offset: 8536, content: ), id: KR5g0115_krp_005-bkkpn3}
   - {type: 'kr:newline', offset: 8536, content: '
@@ -6371,4 +6372,4 @@ markers:
 
       ', id: KR5g0115_krp_005-bkkkrnewl990}
   back: []
-hash: sha256:ae1fb498afc589881fc224fcd838a33cb03fc46e931cdf08b991ddbe619337fd
+hash: sha256:f1df053f3b73ff0e5dbdfb39ca863a95efb9c47d685ab74bc82e21882b67f6da

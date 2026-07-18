@@ -1846,6 +1846,7 @@ markers:
   - {type: indent, offset: 3451, content: 　　　, id: KR5g0115_krp_008-bkkind198}
   - {type: variant, offset: 3452, length: 16, content: 牛馬六畜水穀疫癘諸病方第七十三治, CK-KZ-jye: ''}
   - {type: punctuation, offset: 3463, content: (, id: KR5g0115_krp_008-bkkpn1}
+  - {type: voice, offset: 3463, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 3465, content: /, id: KR5g0115_krp_008-bkkpn2}
   - {type: punctuation, offset: 3467, content: ), id: KR5g0115_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 3467, content: '
@@ -2325,4 +2326,4 @@ markers:
 
       ', id: KR5g0115_krp_008-bkkkrnewl351}
   back: []
-hash: sha256:663218e6b7e411562f82692663a7595f0794a1e9e0973d6f7c1a945106d172d7
+hash: sha256:5ac44c0c1d2aa70056311763c32fa34af0463fe9c14dcaf7d16b4b77d2096f88

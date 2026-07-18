@@ -22,6 +22,7 @@ markers:
   - {type: substitution, offset: 1, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 2, length: 13, content: 熊虎爪牙所傷毒痛方第五十三, CK-KZ-jye: 灰量瘡大小用灰調生油傅入少膩粉佳}
   - {type: punctuation, offset: 13, content: (, id: KR5g0115_krp_007-bkkpn1}
+  - {type: voice, offset: 13, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 14, content: /, id: KR5g0115_krp_007-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR5g0115_krp_007-bkkpn3}
   - {type: 'kr:newline', offset: 15, content: '
@@ -1533,6 +1534,7 @@ markers:
       ', id: KR5g0115_krp_007-bkkkrnewl256}
   - {type: line-break, offset: 2635, content: '', id: KR5g0115_HFL_007-012b04}
   - {type: punctuation, offset: 2637, content: (, id: KR5g0115_krp_007-bkkpn4}
+  - {type: voice, offset: 2637, length: 15, name: note, id: n2}
   - {type: variant, offset: 2644, length: 1, content: 嫂, CK-KZ: 螋}
   - {type: variant, offset: 2644, length: 1, content: 嫂, CK-KZ-jye: 螋}
   - {type: variant, offset: 2644, length: 1, content: 嫂, YP-C: 螋}
@@ -3031,6 +3033,7 @@ markers:
   - {type: page-break, offset: 5347, content: '', id: KR5g0115_CK-KZ_04p083b, image: JY146/CK-KZ_JY146_04p083b.png}
   - {type: page-break, offset: 5347, content: '', id: KR5g0115_YP-C_11xuji-11-0083b, image: JY146/11xuji-11-0083b.png}
   - {type: punctuation, offset: 5361, content: (, id: KR5g0115_krp_007-bkkpn7}
+  - {type: voice, offset: 5361, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 5364, content: /, id: KR5g0115_krp_007-bkkpn8}
   - {type: substitution, offset: 5364, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 5367, content: ), id: KR5g0115_krp_007-bkkpn9}
@@ -5729,4 +5732,4 @@ markers:
 
       ', id: KR5g0115_krp_007-bkkkrnewl966}
   back: []
-hash: sha256:452a8b521541707ee010e5bd47b99aade4f59c3dd4ed9dac1a2e58f74c20e748
+hash: sha256:79766b0f6b2e23d107fe4a144ab21fdf2f8d2065ab70a75a1fbfa108fb030f5a
